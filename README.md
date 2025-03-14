@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Victor Hugo 🖐️
 <br/>
 
-[![Linkedin][(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugoscf/)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhugoscf/)]
 #
 <br/>
 <div style="display: inline_block">
